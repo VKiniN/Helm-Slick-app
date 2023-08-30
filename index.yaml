@@ -3,7 +3,17 @@ entries:
   slickchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-28T20:20:25.5820186+05:30"
+    created: "2023-08-30T15:32:07.477728442+05:30"
+    description: A Helm chart for Kubernetes
+    digest: e6832f4b05ece13e4877fb62c6c1bb85ce0bba27ecc88412cae9412d71efcae2
+    name: slickchart
+    type: application
+    urls:
+    - slickchart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-30T15:32:07.476306554+05:30"
     description: A Helm chart for Kubernetes
     digest: 23dd35fa69a1291ecf5251295e724969d79900cbb3d1622665642d3810b32604
     name: slickchart
@@ -11,4 +21,4 @@ entries:
     urls:
     - slickchart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-28T20:20:25.580386307+05:30"
+generated: "2023-08-30T15:32:07.414540484+05:30"
